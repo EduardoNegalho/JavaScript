@@ -61,3 +61,14 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.paragraph-result-true, .paragraph-result-false{
+  background-color: rgb(13, 133, 103);
+  padding: 10px 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.paragraph-result-false{
+  background-color: rgb(155, 8, 8);
+}
