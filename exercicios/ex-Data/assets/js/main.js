@@ -2,6 +2,7 @@
 //     const h1 = document.querySelector('.container h1');
 //     const today = new Date();
 
+//      Usando switch case para exercitar
 //     function getDayOfWeek(day) {
 //         switch (day) {
 //             case 0:
@@ -23,6 +24,7 @@
 //         }
 //     }
 
+//      Usando arrays
 //     function getMonthOfDate(month) {
 //         const monthsNames = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
 
